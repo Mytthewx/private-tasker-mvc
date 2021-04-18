@@ -1,0 +1,8 @@
+﻿@model IEnumerable<Note>
+
+<h1>Notes</h1>
+<p>Count: @Model.Count()</p>
+@foreach (var n in Model)
+{
+    <li>@n.Title</li>
+}

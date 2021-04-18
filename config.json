@@ -1,0 +1,8 @@
+{
+    "Colors": {
+        "Favorite": "Blue"
+    },
+    "ConnectionStrings": {
+        "TaskerContextDb": "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=TaskerDb;Integrated Security=True;Connect Timeout=30;MultipleActiveResultSets=true;"
+    }
+}
